@@ -1,0 +1,85 @@
+# 弹药按品质等级分类
+
+## 1级弹药
+7.62x39mm LP - 1级
+5.56x45mm RRLP - 1级
+.45 ACP HS - 1级
+5.7x28mm SS198LF - 1级
+5.45x39mm PRS - 1级
+9x19mm PSO - 1级
+12 Gauge 7毫米鹿弹 - 1级
+
+## 2级弹药
+7.62x39mm T45M - 2级
+.50 AE HP - 2级
+5.45x39mm T - 2级
+5.56x45mm FMJ - 2级
+9x19mm Pst - 2级
+.45 ACP JHP - 2级
+5.8x42mm DBP87 - 2级
+7.62x51mm Ultra Nosler - 2级
+5.7x28mm SS197SR - 2级
+.357 Magnum HP - 2级
+12 Gauge独头 GT - 2级
+12 Gauge独头 RIP - 2级
+
+## 3级弹药
+.357 Magnum JHP - 3级
+12.7x55mm PS12A - 3级
+玻纤柳叶箭矢 - 3级
+12 Gauge独头 FTX - 3级
+45-70 Govt RN - 3级
+9x19mm AP6.3 - 3级
+.50 AE JHP - 3级
+7.62x39mm PS - 3级
+12 Gauge 箭形弹 - 3级
+5.8x42mm DVP88 - 3级
+9x39mm SP5 - 3级
+7.62x51mm BPZ - 3级
+9x19mm RIP - 3级
+5.7x28mm L191 - 3级
+5.45x39mm PS - 3级
+.45 ACP FMJ - 3级
+.45 ACP RIP - 3级
+4.6x30mm Subsonic SX - 3级
+.357 Magnum 9号霰射"鼠弹" - 3级
+5.56x45mm M855 - 3级
+5.7x28mm R37.F - 3级
+12 Gauge 8.5毫米鹿弹 - 3级
+
+## 4级弹药
+.357 Magnum FMJ - 4级
+12 Gauge独头 AP-20 - 4级
+碳纤维刺骨箭矢 - 4级
+.50 AE FMJ - 4级
+6.8x51mm FMJ - 4级
+45-70 Govt FMJ - 4级
+12.7x55mm PD12双头弹 - 4级
+5.8x42mm DBP10 - 4级
+12.7x55mm PS12 - 4级
+7.62x51mm M80 - 4级
+9x19mm PBP - 4级
+.45 ACP AP - 4级
+4.6x30mm FMJ SX - 4级
+5.45x39mm BT - 4级
+9x39mm SP6 - 4级
+5.56x45mm M855A1 - 4级
+5.7x28mm SS193 - 4级
+7.62x39mm BP - 4级
+7.62x54R LPS - 4级
+12 Gauge 龙息弹 - 4级
+
+## 5级弹药
+7.62x54R BT - 5级
+5.56x45mm M995 - 5级
+12.7x55mm PS12B - 5级
+5.45x39mm BS - 5级
+7.62x39mm AP - 5级
+45-70 Govt FTX - 5级
+6.8x51mm Hybrid - 5级
+5.8x42mm DVC12 - 5级
+4.6x30mm AP SX - 5级
+5.7x28mm SS190 - 5级
+9x39mm BP - 5级
+7.62x51mm M62 - 5级
+碳纤维穿甲箭矢 - 5级
